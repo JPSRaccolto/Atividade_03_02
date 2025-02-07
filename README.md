@@ -17,7 +17,7 @@
 
 ## 🎯 Objetivos
 - Compreender o funcionamento e a aplicação de comunicação serial em microcontroladores.
-- Aplicar na prática os conceitos de UART e I2C.
+- Aplicar na prática os conceitos de UART, I2C e SPI.
 - Manipular LEDs comuns e LEDs endereçáveis WS2812.
 - Implementar soluções para botões com interrupções e debounce.
 - Desenvolver um projeto que combina hardware e software.
